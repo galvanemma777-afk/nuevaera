@@ -1,0 +1,1 @@
+console.log("Mega Luck mobile landing loaded");
